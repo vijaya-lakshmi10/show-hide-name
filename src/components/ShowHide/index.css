@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.show-hide-container{
+    background-color: linear-gradient(to left,#dd1264,#fc63a7,#fa7257);
+    height:100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.heading{
+    font-family: "Roboto";
+    font-size: 32px;
+    color:#ffffff;
+}
+.show-hide-btn{
+    background-color: #ffffff;
+    color: #dd1264;
+    border:0px solid #ffffff;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+.sub-container{
+    background-color: #fddddb;
+    padding:15px;
+    border:0px solid #fddddb;
+    border-radius:5px;
+    height:100px;
+    width:100px;
+}
+.name{
+    font-size: 18px;
+    font-family: "Roboto";
+    text-align: center;
+}
+
